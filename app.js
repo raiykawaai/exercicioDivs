@@ -27,8 +27,8 @@ switch(div){
     case "rgb(0, 204, 0)":
         return "rgb(0, 0, 51)"
     case  "rgb(0, 0, 51)":
-        return "rgb(255, 255, 0)"
-    case "rgb(255, 255, 0)":
+        return "rgb(102, 0, 204)"
+    case "rgb(102, 0, 204)":
         return "rgb(255, 128, 0)"
 }
 
